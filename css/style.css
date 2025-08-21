@@ -85,7 +85,7 @@ div> .manga_nomes> a{
 }
 
 .bodyanime{
-    background-image: linear-gradient(to bottom, transparent 0%, #0b011e 40%), url(img/Gojo.png);
+    background-image: linear-gradient(to bottom, transparent 0%, #0b011e 40%), url(/img/Gojo.png);
     background-size: 100%;
     background-repeat: no-repeat;
     min-height: 100em;
@@ -130,7 +130,7 @@ div> .manga_nomes> a{
 }
 
 footer{
-    background-image: linear-gradient(to top, transparent 0%, #0b011e 90%), url(img/Tanjiro\ moon\ background.png);
+    background-image: linear-gradient(to top, transparent 0%, #0b011e 90%), url(/img/Tanjiro\ moon\ background.png);
     background-size: 100%;
     background-position: center;
     min-height: 24em;

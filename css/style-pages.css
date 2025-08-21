@@ -12,7 +12,7 @@
         /* CABEÇALHO (ADAPTADO) */
 
 .background-top-pages{
-    background-image: linear-gradient(to bottom, transparent 0%, #0b011e 100%), url(img/wallpaper-tomioka.jpg);
+    background-image: linear-gradient(to bottom, transparent 0%, #0b011e 100%), url(/img/background-tomioka.jpg);
     background-size: 100%;
 }
 
